@@ -1,15 +1,13 @@
 # Joke-Teller
-<h1> <a href="https://milindpawar007.github.io/Joke-Teller/">live Demo<h1> 
+<a href="https://milindpawar007.github.io/Joke-Teller/">live Demo</a>
 
-![cover](https://github.com/elemarmar/joke-teller/raw/master/cover.png)
-
+<p>
 Simple application that tells random developer jokes to the user whenever the` "Tell Me A Joke"` button is clicked on. The joke is both displayed on screen in a speech bubble as well as played by a robotic voice. APIs used for this project:
 
 - [joke API](https://sv443.net/jokeapi/v2/)
 - [text-to-speech API](http://www.voicerss.org/api/)
 
-
-
+</p>
 <br>
 
 ---
