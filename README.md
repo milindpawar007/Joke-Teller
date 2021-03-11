@@ -9,7 +9,7 @@ Simple application that tells random developer jokes to the user whenever the` "
 
 </p>
 <br>
-
+<img src="https://github.com/elemarmar/joke-teller/raw/master/cover.png"></img>
 ---
 
 ## Learning outcomes
